@@ -18,7 +18,7 @@ namespace MyApi.Controllers
             _context = context;
         }
 
-       
+       //hHOLALLFHSDAGASHSHSH
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Categoria>>> GetCategorias()
         {
